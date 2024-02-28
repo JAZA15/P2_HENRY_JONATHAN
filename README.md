@@ -57,7 +57,7 @@ El dashboard presentado, junto a las tranformaciones y vinculaciones con otros d
 
 ## Etapas del proyecto
 
-### 1. Analisis Exploratorio de Datos  ([EDA](https://github.com/JAZA15))
+### 1. Analisis Exploratorio de Datos  ([EDA](https://github.com/JAZA15/P2_HENRY_JONATHAN/blob/main/EDA-Homicidios.ipynb))
 
 <p align="justify">
 
@@ -95,7 +95,7 @@ El dashboard presentado, junto a las tranformaciones y vinculaciones con otros d
 </p>
 
 
-### 3. Dashboard Interactivo ([Link](https://github.com/JAZA15))
+### 3. Dashboard Interactivo ([Link](https://github.com/JAZA15/P2_HENRY_JONATHAN/blob/main/Power_BI/PI_2_Dashboard.pbix))
 
 <p align="justify">
 
@@ -104,7 +104,7 @@ El dashboard presentado, junto a las tranformaciones y vinculaciones con otros d
 </p>
 
 
-### 4. Informe ([Link](https://github.com/JAZA15))
+### 4. Informe ([Link](https://github.com/JAZA15/P2_HENRY_JONATHAN/blob/main/Informe.pdf))
 
 <p align="justify">
 
@@ -115,9 +115,9 @@ El dashboard presentado, junto a las tranformaciones y vinculaciones con otros d
 
 ## **Enlaces**
 
-+ Acceso al Informe [Link](https://github.com/JAZA15)
++ Acceso al Informe [Link](https://github.com/JAZA15/P2_HENRY_JONATHAN/blob/main/Informe.pdf)
 
-+ Acceso al Dashboard [Link](https://github.com/JAZA15).
++ Acceso al Dashboard [Link](https://github.com/JAZA15/P2_HENRY_JONATHAN/blob/main/Power_BI/PI_2_Dashboard.pbix).
 
 + Acceso a las bases de datos [Link](https://data.buenosaires.gob.ar/dataset).
 
